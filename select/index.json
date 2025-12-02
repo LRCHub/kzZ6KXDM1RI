@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ドライフラワー",
+  "base_artist": "優里",
+  "createdAt": "2025-12-02T12:41:53.901659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Uru",
+      "has_synced": false,
+      "path": "select/01_ドライフラワー_Uru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/02_ドライフラワー_Yuuri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/03_ドライフラワー_優里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/04_ドライフラワー_Ado.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ドライフラワー(ライブ)",
+      "artist": "山口百恵",
+      "has_synced": false,
+      "path": "select/05_ドライフラワー(ライブ)_山口百恵.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "has_synced": true,
+      "path": "select/06_ドライフラワー_優里.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ドライフラワー (干花)",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/07_ドライフラワー_(干花)_Uru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/08_ドライフラワー_Ado.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/09_ドライフラワー_Uru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Yuuri",
+      "has_synced": true,
+      "path": "select/10_ドライフラワー_Yuuri.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "優里『Dried Flowers』(English ver.) ×『ドライフラワー』 -ディレクターズカットver.- Official Music Video",
+      "artist": "Yuuri",
+      "has_synced": false,
+      "path": "select/11_優里『Dried_Flowers』(English_ver.)_×『ドライフラワー』_-ディレクターズカットver.-_Official_Music_Video_Yuuri.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/12_ドライフラワー_Uru.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/13_ドライフラワー_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "優里 feat. Hanon",
+      "has_synced": true,
+      "path": "select/14_ドライフラワー_優里_feat._Hanon.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ドライフラワー",
+      "artist": "优里",
+      "has_synced": true,
+      "path": "select/15_ドライフラワー_优里.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dry Flower (ドライフラワー)",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/16_Dry_Flower_(ドライフラワー)_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドライフラワー",
+      "artist": "優里",
+      "has_synced": false,
+      "path": "select/pl_01_ドライフラワー_優里.txt"
+    }
+  ]
+}
